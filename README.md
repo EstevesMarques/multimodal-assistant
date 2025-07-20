@@ -157,4 +157,4 @@ A aplicação abrirá automaticamente em seu navegador padrão no endereço `htt
 
 ## 📄 Licença
 
-Este projeto está distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. 
