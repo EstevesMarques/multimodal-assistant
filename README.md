@@ -1,12 +1,12 @@
-# NutriScan AI 🥗
+# Multimodal Assistant 🥗
 
 **Assistente Nutricional Multimodal com IA**
 
-NutriScan AI é uma aplicação web inteligente construída com Streamlit e LangChain que utiliza o poder dos modelos de linguagem multimodais (como o GPT-4o da OpenAI) para analisar imagens de alimentos.
+NMultimodal Assistant é uma aplicação web inteligente construída com Streamlit e LangChain que utiliza o poder dos modelos de linguagem multimodais (como o GPT-4o da OpenAI) para analisar imagens de alimentos.
 
 Basta tirar uma foto ou enviar uma imagem de um prato, fazer uma pergunta, e a IA fornecerá uma análise detalhada sobre calorias estimadas, ingredientes e informações nutricionais.
 
-![Demo do NutriScan AI](https://iaplaybook.tech/images/posts/multimodal-assistant-demo.gif) 
+![Demo do Multimodal Assistant](https://iaplaybook.tech/images/posts/multimodal-assistant-demo.gif) 
 
 
 ## ✨ Funcionalidades Principais
