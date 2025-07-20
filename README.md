@@ -153,7 +153,6 @@ A aplicação abrirá automaticamente em seu navegador padrão no endereço `htt
 -   [ ] **Dashboard Nutricional:** Criar gráficos e visualizações para acompanhar a ingestão de nutrientes ao longo do tempo.
 -   [ ] **Autenticação de Usuário:** Implementar um sistema de login para que cada usuário tenha seu próprio histórico.
 
----
 
 ## 📄 Licença
 
