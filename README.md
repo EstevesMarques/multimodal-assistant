@@ -2,11 +2,11 @@
 
 **Assistente Nutricional Multimodal com IA**
 
-NMultimodal Assistant é uma aplicação web inteligente construída com Streamlit e LangChain que utiliza o poder dos modelos de linguagem multimodais (como o GPT-4o da OpenAI) para analisar imagens de alimentos.
+Multimodal Assistant é uma aplicação web inteligente construída com Streamlit e LangChain que utiliza o poder dos modelos de linguagem multimodais (como o GPT-4o da OpenAI) para analisar imagens de alimentos.
 
 Basta tirar uma foto ou enviar uma imagem de um prato, fazer uma pergunta, e a IA fornecerá uma análise detalhada sobre calorias estimadas, ingredientes e informações nutricionais.
 
-![Demo do Multimodal Assistant](https://iaplaybook.tech/images/posts/multimodal-assistant-demo.gif) 
+![Demo do Multimodal Assistant](assets/multimodal-assistant-demo.gif) 
 
 
 ## ✨ Funcionalidades Principais
@@ -113,7 +113,7 @@ b. Adicione sua chave de API a este arquivo:
 
 ```
 # .env
-OPENAI_API_KEY=sk-proj-......
+OPENAI_API_KEY="COLE_SUA_CHAVE_DA_OPENAI_AQUI"
 OPENAI_LLM_MODEL=gpt-4o-mini-2024-07-18
 OPENAI_COMPLETION_URL=https://api.openai.com/v1/chat/completions
 OPENAI_TEMPERATURE=0.1
